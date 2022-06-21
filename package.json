@@ -1,0 +1,23 @@
+{
+  "name": "examinationhall_info",
+  "version": "1.0.0",
+  "description": "https://start.spring.io/  - Project: Examinationhall_Info - Language:java11 - Spring Boot: version 2.6.6 - Dependencies: Web,thymeleaf,jpa,h2,lombok,Validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euichanhwang/Examinationhall.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euichanhwang/Examinationhall/issues"
+  },
+  "homepage": "https://github.com/euichanhwang/Examinationhall#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "react-redux": "^8.0.2"
+  }
+}
